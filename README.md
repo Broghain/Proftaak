@@ -1,4 +1,4 @@
 Proftaak
 ========
 
-Frank was ook al hier.
+Dit is de proftaak van klas S25v, Groep E.
