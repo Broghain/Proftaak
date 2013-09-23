@@ -1,5 +1,4 @@
 Proftaak
 ========
 
-Proftaak
-Tom was here
+Frank was ook al hier.
